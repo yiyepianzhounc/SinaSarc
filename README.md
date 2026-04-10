@@ -55,3 +55,15 @@ The user historical behavior features include:
 
 Please send an email to xiaohuluo@stu.scu.edu.cn to apply for access. Be sure to clearly state your affiliation, the person in charge, and how you intend to use our dataset.
 
+## Citation
+If you use this dataset in your research, please cite the preprint as follows (BibTeX format):
+
+```bibtex
+@misc{wang2026ganllmdrivendataaugmentation,
+  title={A GAN and LLM-Driven Data Augmentation Framework for Dynamic Linguistic Pattern Modeling in Chinese Sarcasm Detection},
+  author={Wenxian Wang and Xiaohu Luo and Junfeng Hao and Xiaoming Gu and Xingshu Chen and Zhu Wang and Haizhou Wang},
+  year={2026},
+  eprint={2604.08381},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL}
+}
